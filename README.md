@@ -26,6 +26,17 @@ This repository contains the Admin Dashboard for a public bus transportation sys
 </table>
 </div>
 
+---
+
+## Live Demo
+
+**Check out the live demo of the project at:**  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://web-dev-learner.github.io/Admin_Dashboard-web/)
+
+
+---
+
 ## Table of Contents
 * [Features](https://github.com/Ramsey99/Admin_Dashboard?tab=readme-ov-file#features)
 * [Technologies Used](https://github.com/Ramsey99/Admin_Dashboard?tab=readme-ov-file#technologies-used)
