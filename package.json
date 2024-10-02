@@ -1,0 +1,19 @@
+{
+  "name": "admin_dashboard-web",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'Building project...'",
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d ."
+  },
+  "homepage": "https://<your-username>.github.io/admin_dashboard-web",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
